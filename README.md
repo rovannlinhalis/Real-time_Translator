@@ -57,6 +57,10 @@ A interface possui três seções principais:
 - **Output**: idioma e dispositivo de saída de áudio da tradução.
 - **Log**: exibe informações em tempo real sobre dispositivos e status da tradução.
 
+
+<img width="760" height="424" alt="image" src="https://github.com/user-attachments/assets/643d9f84-4f41-4b42-8b07-1ba106a349dc" />
+
+
 ---
 
 ## 🔧 Exemplo de Uso
